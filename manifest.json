@@ -1,0 +1,14 @@
+{
+    "name": "tijolo",
+    "start_url": "/tijolo",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/tijolooo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+
+}
